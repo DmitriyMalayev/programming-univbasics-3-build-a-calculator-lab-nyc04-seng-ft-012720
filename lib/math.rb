@@ -30,5 +30,6 @@ puts modulo_sum
 end
 
 def square_root(num)
+answer = 
 
 end
