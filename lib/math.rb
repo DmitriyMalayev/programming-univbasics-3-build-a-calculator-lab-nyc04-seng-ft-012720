@@ -30,6 +30,6 @@ puts modulo_sum
 end
 
 def square_root(num)
-answer = 
-
+answer = Math.sqrt(num)
+puts answer 
 end
