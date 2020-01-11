@@ -1,6 +1,6 @@
 def addition(num1, num2)
-addition_sum = num1 + num2
-puts addition_sum 
+num1 + num2
+puts addition 
 
 end
 
